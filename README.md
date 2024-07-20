@@ -1,4 +1,4 @@
-# PayTM Complete Solution
+# Payment Web 
 
 This project is a PayTM-like application that allows users to send money to each other given an initial dummy balance. The application uses a stack comprising Express for the backend, React for the frontend, and MongoDB for the database. 
 
