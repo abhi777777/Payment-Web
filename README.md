@@ -6,8 +6,8 @@ This project is a PayTM-like application that allows users to send money to each
 2. [API Endpoints](#api-endpoints)
 3. [Schemas](#schemas)
 4. [Middlewares](#middlewares)
-5. [Contributing](#contributing)
-6. [License](#license)
+ 
+ 
 
 ## Features
 
@@ -128,10 +128,4 @@ This project is a PayTM-like application that allows users to send money to each
 - Checks for `Authorization` header with Bearer token.
 - Verifies the token and adds `userId` to the request object if valid.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any changes.
-
-## License
-
-This project is licensed under the MIT License.
+ 
